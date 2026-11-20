@@ -1,1 +1,1 @@
-# agentic
+# Personal agentic projects
